@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HR.LeaveManagement.Application.Features.LeaveType.Queries
+namespace HR.LeaveManagement.Application.Features.LeaveType.Queries.GetAllLeaveType
 {
     public class LeaveTypeDto
     {
